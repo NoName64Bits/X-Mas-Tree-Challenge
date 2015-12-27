@@ -1,0 +1,5 @@
+D:\PseudoIDE\XmasTree\XmasTree\bin\Debug\XmasTree.exe
+D:\PseudoIDE\XmasTree\XmasTree\bin\Debug\XmasTree.pdb
+D:\PseudoIDE\XmasTree\XmasTree\obj\x86\Debug\XmasTree.exe
+D:\PseudoIDE\XmasTree\XmasTree\obj\x86\Debug\XmasTree.pdb
+D:\PseudoIDE\XmasTree\XmasTree\obj\x86\Debug\XmasTree.csprojResolveAssemblyReference.cache
